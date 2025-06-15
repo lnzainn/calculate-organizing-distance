@@ -32,3 +32,6 @@ I then wrote a small python script to extract the coordinates and store it in a 
 And then finally compile everything together using a [script](https://github.com/lnzainn/calculate-organizing-distance/blob/main/scripts/main.py)
 
 And then further refine your search by adding specific filters [somewhat like this](https://github.com/lnzainn/calculate-organizing-distance/blob/main/scripts/filtering.ipynb)
+
+
+![505236337_1239600111050182_804629834452520394_n](https://github.com/user-attachments/assets/52e89ebe-d44b-4354-89cb-50ec0b8b1638)
